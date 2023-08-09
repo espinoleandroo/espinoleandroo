@@ -1,10 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Leandro Espino</h2>
-<h4 align="center">a 
-  <br>Computer Systems Engineer, Data Science Student & IoT Researcher 
-  <br>from Mexico
-</h4>
+<h3 align="center">a Computer Systems Engineer, Data Science Student & IoT Researcher from Mexico</h4>
 
-<h2 align="center">Languages & Frameworks</h2>
+<br>
 
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -31,11 +28,6 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a> 
-</p>
-
-<h2 align="center">Technologies & Tools</h2>
-
-<p align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
