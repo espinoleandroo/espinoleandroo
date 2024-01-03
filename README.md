@@ -4,22 +4,17 @@
 <br>
 
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com/espinoleandroo/Java" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com/espinoleandroo/Python" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>   
 </p>
 
 <div align="center">
   <a href="https://github.com/espinoleandroo/">  
-    <img src="https://github-readme-stats.vercel.app/api?username=espinoleandroo" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=espinoleandroo&rank_icon=github&show_icons=true&text_color=d8007e&title_color=2f3237&icon_color=111213&border_radius=11" width="450"/>
   </a>
 </div>
+
